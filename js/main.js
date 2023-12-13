@@ -10,6 +10,7 @@ for (let btn of infoBtns) {
 }
 
 
+
 // Закриваємо підказки при кліку по всьому документу
 
 document.addEventListener('click', function () {
